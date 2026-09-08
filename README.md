@@ -1,2 +1,2 @@
 # SampleFile
-This is a test file
+This is a test file. I just want to learn the basics of working using git
